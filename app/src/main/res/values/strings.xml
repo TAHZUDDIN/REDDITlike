@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RedditLike</string>
+
+
+    <string name="hot">Hot</string>
+    <string name="news">New</string>
+    <string name="rising">Rising</string>
+    <string name="top">top</string>
+    <string name="controversial">Controversial</string>
+    <string name="promoted">Promoted</string>
+
+
+</resources>
